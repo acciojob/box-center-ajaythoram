@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+.container{
+	border:2px solid black;
+	height:200px;
+	width:200px;
+	background-color:lightblue;
+	position:absolute;
+	left: 500px;
+  top: 150px;
+}
+.itm{
+color:purple;
+	position:absolute;
+	left:50px;
+	top:100px;
+}
